@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  async: ^2.8.2
+  async: ^2.8.1
   flutter_cache_manager: ^3.1.2
   flutter_spinbox: ^0.5.4
   flutter_svg: ^1.0.0
